@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning something, I hope.
 - 📫 How to reach me? Don't! Yet.
 
-<!---
-lexinoelhorvath/lexinoelhorvath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![75b11fd2fae7e624265a342b9c7d0474](https://user-images.githubusercontent.com/117325253/199630600-898fcc9a-3566-4ca1-9eaa-4c4677d12274.jpg)
